@@ -39,3 +39,5 @@
     </td>
   </tr>
 </table>
+
+<img width="592" height="83" alt="Знімок екрана 2026-09-07 150135" src="https://github.com/user-attachments/assets/e70a7a2c-31ba-4c8d-be91-3ecda798ed03" />
